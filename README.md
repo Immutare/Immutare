@@ -1,7 +1,7 @@
 Hi! I'm @Immutare  👋
 =============
 
-I'm currently a FullStack web developer based in Mexico 🇲🇽
+I'm currently a FullStack web developer based in Mexico 🇲🇽 <br>
 I'm a developer who is currently trying to pivot to Python and hopefully I'll make it to be a FANG developer. 🧐
 
 I'll try to take notes here of what I've learned and where I'm at in my training 🦾
